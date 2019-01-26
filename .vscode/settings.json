@@ -1,0 +1,18 @@
+{
+    "dotnet-test-explorer.testProjectPath": "\\test\\EstudoJenkinsPipeline.Tests",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/obj":true,
+        "**/bin":true,
+        "**/coverage":true,
+        "**/packages":true,
+        "**/.vs":true,
+        "**/docker-compose.dcproj":true,
+        "**/docker-compose.override.yml":true,
+        "**/ServiceFabric":true
+    }
+}
